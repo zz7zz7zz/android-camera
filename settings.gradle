@@ -1,0 +1,1 @@
+include ':app', ':lib-camera', ':lib-camera', ':lib-camera'
